@@ -77,4 +77,4 @@ MIT License – Free to use and modify.
 
 =======
 # AI-powered-traffic-violation-detection
->>>>>>> ef2141c0149da5c39a57cd704b4e249cbaddba74
+
