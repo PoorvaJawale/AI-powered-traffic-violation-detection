@@ -76,5 +76,4 @@ streamlit run dashboard_streamlit.py
 MIT License – Free to use and modify.
 
 =======
-# AI-powered-traffic-violation-detection
 
