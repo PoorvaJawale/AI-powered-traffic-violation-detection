@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🚦 AI Traffic Violation Detection System
 
 A computer vision–powered traffic monitoring system that detects and logs traffic violations in real-time using **YOLO**, **DeepSORT**, and a **Streamlit dashboard**.  
@@ -74,16 +72,6 @@ pip install -r requirements.txt
 # Run Streamlit dashboard
 streamlit run dashboard_streamlit.py
 ``` 
-## 📸 Demo
----
-![LANDING PAGE](images/UI.png)
-![MODEL UI](images/MODEL.png)
-![DETECTION EXAMPLE](images/DETECTION.png)
-![DASHBOARD EXAMPLE](images/DASHBOARD.png)
-![ANALYSIS EXAMPLE](images/ANALYSIS.png)
-![AUDIT REPORT](images/AUDIT.png)
----
-
 ## 📜 License
 MIT License – Free to use and modify.
 
